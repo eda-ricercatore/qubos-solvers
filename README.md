@@ -13,9 +13,38 @@ The first set of QUBO problem instances to benchmark the QUBO solvers are obtain
 
 The portfolio of QUBO solvers use the following algorithms and heuristics: 
 + [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{Mishra2016}
+	- \cite{Neapolitan2013}
 	- \cite{Maniezzo2010}
+	- \cite{Ausiello1999}
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{}
 + [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{Ausiello1999}
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{}
 + [quantum annealing](https://en.wikipedia.org/wiki/Quantum_annealing)
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{}
+	- \cite{}
 
 
 
