@@ -130,27 +130,42 @@ The portfolio of QUBO solvers use the following algorithms and heuristics:
 	- \cite{Yang2014}
 	- \cite{Ghedira2013}
 	- \cite{Zelinka2013}
+	- \cite{Deng2013}
+	- \cite{Grosan2011}
 	- \cite{Koziel2011}
+	- \cite{Vocking2011}
 	- \cite{Lange2010}
+	- \cite{Atallah2009}
 	- \cite{Wang2009}
 	- \cite{Weise2009}
+	- \cite{Cheney2008}
 	- \cite{Gen2008}
+	- \cite{Jones2008}
+	- \cite{Skiena2008}
+	- \cite{Mohanty2008}
+	- \cite{Caldarelli2007a}
 	- \cite{CoelloCoello2007}
 	- \cite{Dreo2006}
 		- Formal/Mathematical derivation from Markov Chains.
+	- \cite{Pinter2006}
 	- \cite{Burke2005}
+	- \cite{Liu2005}
 	- \cite{Haupt2004}
 	- \cite{CoelloCoello2002}
 	- \cite{Kuo2001}
+	- \cite{Atallah1999}
 	- \cite{Ausiello1999}
 	- \cite{Gerez1999}
 	- \cite{Gershenfeld1999}
 	- \cite{Lange1999}
+	- \cite{Gerez1999}
+	- \cite{Sherwani1999}
+	- \cite{Bertsimas1997}
 	- \cite{RaywardSmith1996}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
+	- \cite{Gajski1992}
+	- \cite{Otten1989}
+	- \cite{Sechen1988}
+	- \cite{Wong1988}
 	- \cite{}
 	- \cite{}
 	- \cite{}
