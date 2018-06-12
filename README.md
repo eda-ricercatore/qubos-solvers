@@ -9,10 +9,12 @@ A portfolio of solvers for quadratic unconstrained binary optimization (QUBO).
 The first set of QUBO problem instances to benchmark the QUBO solvers are obtained from the test cases of *Qbsolv* \cite{mwbooth2017}.
 
 
+##	Portfolio of QUBO Solvers 
 
-
-
-
+The portfolio of QUBO solvers use the following algorithms and heuristics: 
++ genetic algorithm \cite{Maniezzo2010}
++ simulated annealing
++ quantum annealing
 
 
 
