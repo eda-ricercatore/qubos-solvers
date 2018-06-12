@@ -125,10 +125,13 @@ The portfolio of QUBO solvers use the following algorithms and heuristics:
 			+ \cite{}
 			+ \cite{}
 + [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+	- \cite{Tanaka2017}
 	- \cite{Messac2015}
+	- \cite{Yang2014}
 	- \cite{Ghedira2013}
 	- \cite{Zelinka2013}
 	- \cite{Koziel2011}
+	- \cite{Lange2010}
 	- \cite{Wang2009}
 	- \cite{Weise2009}
 	- \cite{Gen2008}
@@ -136,18 +139,14 @@ The portfolio of QUBO solvers use the following algorithms and heuristics:
 	- \cite{Dreo2006}
 		- Formal/Mathematical derivation from Markov Chains.
 	- \cite{Burke2005}
+	- \cite{Haupt2004}
+	- \cite{CoelloCoello2002}
 	- \cite{Kuo2001}
 	- \cite{Ausiello1999}
 	- \cite{Gerez1999}
+	- \cite{Gershenfeld1999}
+	- \cite{Lange1999}
 	- \cite{RaywardSmith1996}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
 	- \cite{}
 	- \cite{}
 	- \cite{}
