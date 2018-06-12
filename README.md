@@ -166,47 +166,11 @@ The portfolio of QUBO solvers use the following algorithms and heuristics:
 	- \cite{Otten1989}
 	- \cite{Sechen1988}
 	- \cite{Wong1988}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
 + [quantum annealing](https://en.wikipedia.org/wiki/Quantum_annealing)
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-	- \cite{}
-
+	- \cite{Tanaka2017}
+	- \cite{King2015}
+	- \cite{McGeoch2014}
+	
 
 
 
